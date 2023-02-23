@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-Preface { /*controls article alignment*/
+main { /*controls article alignment*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
