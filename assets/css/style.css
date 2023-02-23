@@ -38,7 +38,7 @@ header nav ul {
 
 header nav ul li {
     display: inline-block;
-    margin-left: 25 px; /* what does this do?*/
+    margin-left: 25px; 
 }
 
 a {
@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero { /* setting for main graphic?*/
+.hero { /* setting for main graphic*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
