@@ -14,6 +14,9 @@
     Download repository from github links.
     https://github.com/EspadaSworn/horiseon 
     
+    Main website
+    https://espadasworn.github.io/horiseon/
+    
 ## Usage
 
     To be used to create a website with organized flow and navigation so as to improve accessability.
