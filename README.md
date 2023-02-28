@@ -1,27 +1,29 @@
-# horiseon
+# Horiseon
 
 ## Description
-    Primary objectives: To refine code by properly labeling elements, remove excess code so as to make code concise, repair any broken links or improper appearances on the webpage so as to develop a professional grade webpage. 
+    Primary objectives: To refine code by properly labeling HTML elements, remove excess code so as to make code concise, repair any broken links or improper appearances on the webpage so as to develop a more accessible website. 
 
     Process:   
-    Edits to element titles from "div-(etc)" to proper syntax (headers, aside, section, article, etc).
-    Refine code to make it more concise by recategorizing elements together that shared similar formating and removing excess/duplicate code. 
+    Edits to HTML element titles from "div-(etc)" to proper syntax (headers, aside, section, article, etc).
+    Refine code to make it more concise by recategorizing elements together that shared similar formating and removing excess/duplicate code(done in HTML and CSS). 
+    Assign descriptions to images to allow for greater accessability.
     Repaired broken link in navigation bar by properly classifying "id".
 
 ## Installation
 
-    what are teh steps required to install your project, provide step by step process
-
+    Download repository from github links.
+    https://github.com/EspadaSworn/horiseon 
+    
 ## Usage
 
-    Provide instructions for exmamples for use. include screenshots as needed 
+    To be used to create a website with organized flow and navigation so as to improve accessability.
 
-"C:\Users\natak\OneDrive\Desktop\coding-class\horiseon\assets\images\screenshot.png"
+<img src="assets/images/screenshot.png">
+<img src="assets/images/screenshot2.png">
 
 ## Credits
 
+Diarmuid Murphy,
+Meg Meyers,
+John Word https://youtu.be/Z_S-KWs7yHk 
 
-link to deployed application
-
-
-check meg slacked out 
